@@ -32,4 +32,4 @@ Conheça mais sobre mim :
  </div>
  -----
  
- ![Snake animation](https://github.com/GiovanaGon/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/GiovanaGon/GiovanaGon/blob/output/github-contribution-grid-snake.svg)
